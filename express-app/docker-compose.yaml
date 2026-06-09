@@ -1,6 +1,6 @@
 services:
   express-app:
-    image: express-app:latest
+    image: qtris3007/express-app:latest
     ports:
       - 8080:8080
   watchtower:
